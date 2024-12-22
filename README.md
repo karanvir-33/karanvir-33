@@ -1,4 +1,4 @@
-Hi, I’m Karanvir Singh! 👋
+# Hi there! 👋 I'm Karanvir Singh
 
 - 👀 Currently exploring Software Development
 - 🌱 I’m studing Computer Engineering Technology at Seneca Polytechnic College, Ontario
